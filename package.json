@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/MissUwuieTime/memokitty/issues"
   },
-  "homepage": "https://github.com/MissUwuieTime/memokitty#readme"
+  "homepage": "https://github.com/MissUwuieTime/memokitty#readme",
+  "dependencies": {
+    "dot": "^1.1.3"
+  }
 }
