@@ -2,7 +2,7 @@
   "name": "memokitty",
   "version": "0.1.0",
   "description": "",
-  "main": "index.js",
+  "main": "./gen/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/MissUwuieTime/memokitty#readme",
   "dependencies": {
-    "dot": "^1.1.3"
+    "dot": "^1.1.3",
+    "glob": "^8.0.3",
+    "glob-promise": "^5.0.0"
   }
 }
