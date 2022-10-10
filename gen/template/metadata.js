@@ -3,6 +3,7 @@
 // @version      0.1.0
 // @description  Have templates for issues, pull requests, and more ready to go!
 // @author       MissUwuieTime
+// @updateURL    https://github.com/MissUwuieTime/memokitty/raw/main/dist/memokitty.user.js
 // @match        https://github.com/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=github.com
 // @grant        GM_setValue
